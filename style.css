@@ -1,0 +1,54 @@
+.navbar {
+  background-color: #ff9fb0;
+}
+
+.tb {
+  overflow: auto;
+}
+
+.icon {
+  transform: translateY(-2px);
+}
+
+.chart-item {
+  padding: 31px 0;
+  background-color: #ffd3db;
+  border-radius: 10px;
+}
+
+a {
+  color: #ff9fb0 !important;
+}
+
+/* Index file */
+section {
+  background-color: #ffd3db;
+}
+
+.bg-content {
+  background-color: #fff4f4;
+  border-radius: 10px;
+}
+
+.chart {
+  text-align: center;
+}
+
+h6 {
+  margin: 10px 0 !important;
+}
+
+/* Employee file */
+.avt {
+  text-align: center;
+}
+.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.status {
+  list-style-type: none;
+  padding: 0;
+}
